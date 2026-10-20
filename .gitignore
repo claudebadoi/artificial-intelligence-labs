@@ -1,0 +1,27 @@
+# ============================================
+# Artificial Intelligence Labs - Git Ignore
+# ============================================
+
+# MATLAB temporary and backup files
+*.asv
+*.autosave
+*.m~
+*~
+
+# MATLAB and Simulink generated files
+slprj/
+codegen/
+*.slxc
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
